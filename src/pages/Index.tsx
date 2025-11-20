@@ -274,11 +274,11 @@ export default function Index() {
               <div className="mt-8 pt-8 border-t space-y-4">
                 <div className="flex items-center gap-3 text-muted-foreground">
                   <Icon name="Mail" size={20} />
-                  <span>info@lyricwear.com</span>
+                  <span>mark101det@gmail.com</span>
                 </div>
                 <div className="flex items-center gap-3 text-muted-foreground">
                   <Icon name="Phone" size={20} />
-                  <span>+7 (999) 123-45-67</span>
+                  <span>+79054048032</span>
                 </div>
               </div>
             </Card>
